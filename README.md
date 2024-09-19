@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3" alt="Typing SVG">
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/1014901022042357932" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -68,7 +68,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyoopoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoopoon&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -77,7 +77,7 @@
 ###
 
 ## **Views Counter**
-<div align="center">
-	<a href="https://discord.com/users/1135128375225225256"><img align="center" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
+<div align="left">
+	<a href="https://discord.com/users/1135128375225225256"><img align="left" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
 	<a href="https://github.com/kiyoopoon"></a>
 </div>
