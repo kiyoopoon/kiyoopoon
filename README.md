@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
+<div align="center">
+	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   <a href="https://discord.com/users/1014901022042357932" target="_blank">
@@ -73,8 +75,7 @@
 ###
 
 ## **Views Counter**
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=moebooru-h"> <br/>
-</p> -->
-<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
-<a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<div align="center">
+	<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
+	<a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+</div>
