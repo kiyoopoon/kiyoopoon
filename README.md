@@ -78,6 +78,6 @@
 
 ## **Views Counter**
 <div align="center">
-	<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
+	<a href="https://discord.com/users/1135128375225225256"><img align="center" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
 	<a href="https://github.com/kiyoopoon"></a>
 </div>
