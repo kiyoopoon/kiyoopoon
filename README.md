@@ -1,8 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
+	<a href="https://git.io/typing-svg">
 	  <image src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+Mono&size=16&color=246C61&center=true&width=410&height=45&lines=system.kill()">
-	  **<p>Software is like sex it's better when it's free.</p>**
-  </a>
+	</a>
+	<br>
+	**<p>Software is like sex it's better when it's free.</p>**
 </div>
 
 
