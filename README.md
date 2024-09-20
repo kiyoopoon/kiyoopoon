@@ -3,7 +3,7 @@
 	  <image src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+Mono&size=16&color=246C61&center=true&width=410&height=45&lines=system.kill()">
 	</a>
 	<br>
-	<p><b>Software is like sex it's better when it's free.</b></p>
+	<p font-family="Jetbrains Mono"><b>Software is like sex it's better when it's free.</b></p>
 </div>
 
 
