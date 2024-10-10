@@ -98,6 +98,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyoopoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <h2></h2>
+<br><br>
+<samp>
+	<p><b>Most of my repos are private >.<</b></p>
+</samp>
 
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoopoon&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
