@@ -19,7 +19,7 @@
 	  <a href="https://discord.com/users/1014901022042357932" target="_blank">
 	    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
 	  </a>
-	  <a href="mailto:fake@email.com" target="_blank">
+	  <a href="mailto:kiyo@kiyo.codes" target="_blank">
 	    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 	  </a>
 	  <a href="https://x.com/kaze_noki" target="_blank">
