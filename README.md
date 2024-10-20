@@ -99,11 +99,11 @@
 <img height=200 align="center" src="https://github-readme-stats-gamma-vert-43.vercel.app/api/top-langs?username=kiyoopoon&layout=compact&langs_count=8&card_width=320&count_private=true&theme=gotham" />
 
 <h2></h2>
-<br><br>
+<!-- <br><br>
 <samp>
 	<p><b>Most of my repos are private >.<</b></p>
 </samp>
-
+ -->
 <br><br>
 
 <img src="https://ghactgrapprv.vercel.app/graph?username=kiyoopoon&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
