@@ -1,7 +1,7 @@
 <!-- Profile design inpired from rxyhn's design -->
 
 <div align="center">
-	<a href="https://git.io/typing-svg">
+	<a>
 	  <image src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+Mono&size=14&color=246C61&center=true&width=430&height=45&lines=idiot%20admires%20complexity,%20genius%20admires%20simplicity">
 	</a>
 	<br>
@@ -31,7 +31,7 @@
 <h2></h2>
 
 <div align="center">
-	<a href="https://git.io/typing-svg">
+	<a>
 	  <image src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+Mono&size=16&color=246C61&center=true&width=410&height=45&lines=I%20use%20Arch%20BTW%20.%20.%20.">
 	</a>
 	<br>
